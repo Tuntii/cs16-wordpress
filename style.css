@@ -1,0 +1,20 @@
+/*
+Theme Name: CS16 Retro Theme
+Theme URI:  https://senin-site-adresin.com
+Author:     Tunay
+Author URI: https://senin-profil-adresin.com
+Description: Counter Strike 1.6 havası veren bir WordPress teması.
+Version:    1.0
+License:    MIT
+Text Domain: cs16theme
+*/
+
+/* Buradan itibaren tema için ekstra stiller tanımlayabilirsin. 
+   Ancak cs16.css'i WordPress’in “enqueue” mekanizmasıyla çekeceğiz. */
+
+   body {
+    margin: 0;
+    background-color: #222; /* Hafif koyu ton, CS atmosferi */
+    color: #fff;            /* Yazılar beyaz olsun */
+  }
+  
