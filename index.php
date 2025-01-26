@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
 <main class="content">
-  <!-- İçeriğin etrafına container ekliyoruz -->
+  
   <div class="container">
 
     <?php if ( have_posts() ) : ?>
